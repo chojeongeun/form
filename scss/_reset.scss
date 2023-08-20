@@ -13,3 +13,15 @@ li {
 a {
 	text-decoration: none;
 }
+
+table {
+	border-collapse: collapse;
+}
+fieldset {
+	border: none;
+}
+.h {
+	position: absolute;
+	top: -9999999px;
+	opacity: 0;
+}
